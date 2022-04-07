@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Ronit-jaiswal
+- 👋 Hi, I’m @Ronit-Jaiswal
 - 👀 I’m interested in learing new technology,food,books
-- 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning phython
+- 📫 How to reach me ronitjaiswal9@gamil.com
 
 <!---
 Ronit-jaiswal/Ronit-jaiswal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
